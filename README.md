@@ -12,8 +12,8 @@ MNIST Dataset: https://www.kaggle.com/competitions/digit-recognizer/data
 Support Vector Machines Classifier
 ### Vídeo
 
-https://youtube.com/shorts/F8_sEv2kpXU
-https://youtube.com/shorts/XTjBeHnh_uE?feature=share
+- https://youtube.com/shorts/F8_sEv2kpXU
+- https://youtube.com/shorts/XTjBeHnh_uE?feature=share
 
 ### Fotos
 ![](https://github.com/IMTTeixeira/EEN251---Projeto-de-Microcontroladores/blob/main/midia/foto3.jpeg?raw=true)

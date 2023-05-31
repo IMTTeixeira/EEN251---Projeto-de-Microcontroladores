@@ -12,6 +12,9 @@ MNIST Dataset: https://www.kaggle.com/competitions/digit-recognizer/data
 Support Vector Machines Classifier
 ### Vídeo
 
+https://github.com/IMTTeixeira/EEN251---Projeto-de-Microcontroladores/blob/main/midia/VID-20230531-WA0004.mp4
+https://github.com/IMTTeixeira/EEN251---Projeto-de-Microcontroladores/blob/main/midia/VID-20230531-WA0005.mp4
+
 ### Fotos
 ![](https://github.com/IMTTeixeira/EEN251---Projeto-de-Microcontroladores/blob/main/midia/foto3.jpeg?raw=true)
 ![](https://github.com/IMTTeixeira/EEN251---Projeto-de-Microcontroladores/blob/main/midia/foto7.jpeg?raw=true)

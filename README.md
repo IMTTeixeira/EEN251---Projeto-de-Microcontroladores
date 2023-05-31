@@ -5,6 +5,10 @@ Esse repositório trata-se de um projeto realizado no Instituto Mauá de Tecnolo
 
 ### Esquema elétrico do projeto
 
+### Dataset de treinamento
+MNIST Dataset: https://www.kaggle.com/competitions/digit-recognizer/data
+### Modelo utilizado (foi serializado para caber no Raspberry Pi Pico)
+Support Vector Machines Classifier
 ### Vídeo
 
 ### Fotos
